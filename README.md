@@ -1,2 +1,2 @@
 # ssmFramework
-Integration of ssm
+Integration of ssm as a template
